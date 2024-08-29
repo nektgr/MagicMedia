@@ -1,0 +1,15 @@
+{
+    "name": "Test_1",
+    "email": "giseb50863@biowey.com",
+    "password": "Test_1"
+},
+{
+    "name": "Test_2",
+    "email": "yarkiyirtu@gufum.com",
+    "password": "Test_2"
+},
+{
+    "name": "Test_3",
+    "email": "fokkucidra@gufum.com",
+    "password": "Test_3"
+}
