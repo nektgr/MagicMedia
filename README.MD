@@ -21,4 +21,4 @@ This project contains a Locust load testing script that interacts with a gRPC va
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/vacancy-grpc-load-test.git
-   cd vacancy-grpc-load-test
+   locust -f src/tasks.py --host vacancies.cyrextech.net:7823
